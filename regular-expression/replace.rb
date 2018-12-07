@@ -2,7 +2,7 @@
 
 phone = "2004-959-559 #This is Phone Number"
 
-# Delete Ruby-style comments
+# Remove comments
 phone = phone.sub!(/#.*$/, "")   
 puts "Phone Num : #{phone}"
 
