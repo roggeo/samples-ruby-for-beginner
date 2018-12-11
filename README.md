@@ -33,3 +33,14 @@
 9. [loop_for.rb](loop_for.rb)
 
 10. [loop_while.rb](loop_while.rb)
+
+11. [Classes](class)
+
+12. [Comments](comment)
+
+13. [Date and Time](datetime)
+
+14. [Exception](exception)
+
+15. [Relugar Expression](relugar-expression)
+
